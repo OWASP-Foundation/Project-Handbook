@@ -1,0 +1,342 @@
+Appendix
+--------
+
+In this section, you will ﬁnd examples, forms, and extra information
+relevant to the OWASP Projects infrastructure.
+
+### OWASP Projects History
+
+**JUNE 2011 GPC WORKING SESSION** Since the inception of the Global
+Projects Committee (GPC) at the 2008 OWASP Summit, our goal has been to
+foster an environment where OWASP Projects can grow and mature. As
+application security awareness rises, the knowledge and capabilities
+provided by OWASP Projects becomes increasingly important. To that end,
+we must balance the history of OWASP Projects as a loosely managed
+collection of random application security projects with the necessity to
+provide clarity and assurance to a world that has come to depend on many
+of these OWASP Projects.
+
+Over the last three years, the GPC made great strides towards this goal,
+but virtual meetings have their limitations, and progress slowed
+signiﬁcantly. Following the initial 2008 Summit, the GPC met in person
+only once during the 2009 Mini-Summit. During this session, we met with
+renewed rigor and were able to take advantage of the Summit to outline
+an overall OWASP Project Lifecycle, along with an ambitious but
+achievable agenda for the remainder of the year. The argument could be
+made that the productivity of a week at the Summit matched or exceeded
+the productivity of the GPC during the entirety of the previous year.
+Recognizing the value of in person meetings, the GPC requested support
+for two in person meetings during the 2011 year as part of our overall
+2011 budget, which was approved at the May 2011 Board meeting. The GPC
+held the ﬁrst of these working sessions in the three days leading up to
+OWASP AppSec EU in Dublin, Ireland. The GPC Working Session took place
+from June 6th – 8th at the Trinity Capitol Hotel, separate and away from
+the ofﬁcial conference venue. This separation was deliberate to minimize
+distractions and maximize productivity of the GPC. During this session,
+the GPC met for over 30 hours and accomplished a variety of goals
+including:
+
+1.  Designated the phases of the OWASP Projects Lifecycle
+2.  Outlined vision for OWASP Enterprise Edition support
+3.  Established processes for moving from phase to phase
+4.  Completed inventory of OWASP Projects and assigned initial phase
+5.  Targeted projects to pilot OWASP Flagship designation
+6.  Drafted mapping of Flagship projects to OpenSAMM categories
+7.  Created of Project Health Evaluation criteria
+8.  Selected of Projects Hosting Infrastructure provider
+
+Many of these accomplishments were uncompleted goals from the original
+GPC charter. The working session also resulted in several deliverable
+artifacts which are enclosed with these proceedings. We hope that these
+proceedings demonstrate the value of in person committee working
+sessions and provide the framework and precedent for other committees to
+pursue their own working sessions. For the full report, please see the
+GPC Full Working Session Proceedings Document.
+
+**COMMITTEE DISSOLUTION** In early 2013, the OWASP Board of Directors
+made the decision to do away with all of our OWASP Committees. The
+committee structure was completely dissolved mid 2013, which meant that
+the GPC would no longer be ﬁnal decision makers on OWASP Projects
+related matters.
+
+**TECHNICAL PROJECT ADVISORS** Faced with the need for experienced
+technical expertise for project reviews, the OWASP Projects Manager,
+Samantha Groves, recruited six (6) experts from different areas of the
+software security community. The aim was to build a grow of Technical
+Project Advisors that would help develop the assessment criteria and
+process OWASP would use to determine project health, quality and
+usability for the purpose of improving overall product quality
+throughout our projects inventory. The assessment criteria and process
+has been created, and we plan on implementing it thoroughly in 2014.
+
+### List of OWASP Recommended Licenses
+
+### OWASP Code of Ethics 2013
+
+Each of us is expected to behave according to the principles contained
+in the following Code of Ethics. Breaches of the Code of Ethics may
+result in the Foundation taking disciplinary action. (Membership
+Revocation) Perform all professional activities and duties in accordance
+with all applicable laws and the highest ethical principles. Promote the
+implementation of and promote compliance with standards, procedures,
+controls for application security. Maintain appropriate conﬁdentiality
+of proprietary or otherwise sensitive information encountered in the
+course of professional activities. Discharge professional
+responsibilities with diligence and honesty. To communicate openly and
+honestly. Refrain from any activities which might constitute a conﬂict
+of interest or otherwise damage the reputation of employers, the
+information security profession, or the Foundation. To maintain and
+afﬁrm our objectivity and independence. To reject inappropriate pressure
+from industry or others. Not intentionally injure or impugn the
+professional reputation of practice of colleagues, clients, or
+employers. Treat everyone with respect and dignity. To avoid
+relationships that impair — or may appear to impair — OWASP's
+objectivity and independence.
+
+### OWASP Project Donation Contract
+
+The OWASP Foundation
+
+Project Donation License Agreement
+
+Thank you for your interest in The OWASP Foundation (the "Foundation").
+In order to clarify the intellectual property license granted with
+contributions of software from any person or entity (the "Contributor"),
+the Foundation would like to have a Project Donation License Agreement
+on ﬁle that has been signed by the Contributor, indicating agreement to
+the license terms below. This license is for your protection as a
+Contributor of software to the Foundation and does not change your right
+to use your own contributions for any other purpose. If you have not
+already done so, please complete this Agreement. Please read this
+document carefully before signing and keep a copy for your records.
+
+`Full name: ____________________________ `\
+`E-Mail: _____________________________ `\
+`Telephone: ___________________________ `\
+`Country: ____________________________ `
+
+You and the Foundation hereby accept and agree to the following terms
+and conditions:
+
+1.  The donation of your project means that you agree to hand over all
+    past, present and future contributions of source code and
+    documentation to the Foundation, however submitted to the
+    Foundation, excluding any submissions that are conspicuously marked
+    or otherwise designated in writing by You.
+2.  You hereby grant to the Foundation a non-exclusive, irrevocable,
+    worldwide, no-charge, transferable copyright license to use,
+    execute, prepare derivative works of, and distribute (internally and
+    externally, in object code and, if included in your Contributions,
+    source code form) your Contributions. Except for the rights granted
+    to the Foundation in this paragraph, You reserve all right, title
+    and interest in and to your Contributions. OWASP will always release
+    a free and open version of anything we distribute that includes
+    your Contributions.
+3.  You may continue to be involved in the donated project, but you may
+    no withdraw your project from the OWASP Foundation once the project
+    donation process has been completed. The project donation process is
+    complete once the Foundation receives as signed version of this form
+    from you.
+4.  You represent that you are legally entitled to grant the
+    above license. If your employer(s) have rights to intellectual
+    property that you create, you represent that you have received
+    permission to make the Contributions on behalf of that employer, or
+    that your employer has waived such rights for your Contributions to
+    the Foundation.
+5.  You represent that, except as disclosed in your Project Donation
+    submission(s), each of your Contributions is your original creation.
+    You represent that your Contribution submission(s) include complete
+    details of any license or other restriction (including, but not
+    limited to, related patents and trademarks) associated with any part
+    of your Contribution(s) (including a copy of any applicable
+    license agreement). You agree to notify the Foundation of any facts
+    or circumstances of which you become aware that would make Your
+    representations in this Agreement inaccurate in any respect.
+6.  You are not expected to provide support for your Contributions,
+    except to the extent you desire to provide support. You may provide
+    support for free, for a fee, or not at all. Your Contributions are
+    provided as-is, with all faults defects and errors, and without
+    warranty of any kind (either express or implied) including, without
+    limitation, any implied warranty of merchantability and ﬁtness for a
+    particular purpose and any warranty of non-infringement.
+
+Please sign:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### Grant Fund Spending Policy
+
+OWASP has grown considerably over the past few years, and this means
+that our project inventory has grown as well. We currently manage over
+100 open source projects under the OWASP brand umbrella. OWASP prides
+itself on being able to spend resources in the pursuit of potential
+grant funding opportunities for our projects. However, our recent
+successful grant proposals have added several restrictions in the way we
+can spend grant awarded funds as an organization. In order to avoid any
+problems or mis-understandings, we have developed a few guidelines to
+provide clear expectations of how grant awarded funds are to be managed
+and spent by all OWASP Projects.
+
+**GUIDELINES**
+
+1.  All grant applications submitted to a grant awarding body on behalf
+    of an OWASP Project must be submitted to the OWASP Projects Manager
+    for approval before they are submitted to the grant
+    awarding organization.
+2.  All grant funds awarded to an OWASP Project must be spent in
+    accordance to the project plan and budget submitted to the OWASP
+    Projects Manager, and the grant awarding organization, prior to the
+    award of the funds.
+3.  All expenses to be made using grant awarded funds must be
+    pre-approved by the OWASP Projects Manager.
+4.  Awarded grant funds may not be used, re-allocated, or given away to
+    any other initiative or OWASP Project for any reason.
+5.  It is the Project Leader’s responsibility to make sure he/she is
+    working with the OWASP Projects Manager to manage grant related
+    expenses and spending.
+6.  It is the Project Leader’s responsibility to make sure they are
+    delivering the product outlined in the grant proposal using the
+    funding made available by the grant awarding body.
+7.  In the event that the awarded project terminates its activities, the
+    OWASP Projects Manager will notify the sponsor or grant awarding
+    organization, and inform them of the cease of activity. The grant
+    awarding organization can then decide to either take back the funds,
+    or donate them to another project, to the general OWASP Project
+    fund, or to another part of the OWASP organization that
+    accepts sponsorships.
+
+### Project Spending Policy
+
+Below you will ﬁnd a series of guidelines aimed at assisting OWASP
+Project Leaders with OWASP Project spending related questions. In order
+to avoid any problems or misunderstandings in the future, we have
+developed these guidelines to provide clear expectations of how OWASP
+Projects should spend project funds, and what are appropriate project
+expenses.
+
+**GUIDELINES**
+
+1.  OWASP Project funds are to be spent on project related
+    expenses ONLY. If your project has more than one Project Leader,
+    then all Project Leaders must agree to the expense before
+    the purchase.
+2.  Before a purchase is made, the Project Leader must make sure that
+    his/her project actually has the funds to cover the purchase. The
+    easiest way to do this is to communicate your purchase needs to the
+    OWASP Projects Manager, or you can look at the running funds list
+    provided by the Foundation.
+3.  Project expenses exceeding \$500 USD must be communicated to the
+    OWASP Projects Manager before the purchase.
+4.  All project expenses will be managed via a reimbursement process.
+    Once a purchase is made, the purchaser must submit a reimbursement
+    request using our reimbursement form. Note: A receipt is required
+    for the reimbursement process to be successful.
+5.  Appropriate Project Expenses encompass the following: Graphic
+    Design; Technical Contractor; Web Design; Printing; Software
+    Purchase; Hardware Purchase; Intern Stipends; Team Travel Expenses
+    (for project related work ONLY); Venue Hire (project related work
+    only); Food and Drink (if used to meet with other Project Leaders,
+    contributors, OWASP staff, or an OWASP related function);
+    Project Contractor. Please check with the OWASP Projects Manager
+    before you move forward with a purchase if your expense falls
+    outside of the items listed above.
+6.  All OWASP Projects are started with the understanding that they will
+    be volunteer run, and they must remain volunteer run.
+7.  In the event that a project’s Leaders decide they would like to hire
+    a contractor to work on a particular aspect of the project, then the
+    Project Leaders must manage the recruitment and payment on a
+    task/work assignment basis. Contractors must be paid upon
+    satisfactory completion of the task/work assignment. Additionally,
+    the OWASP Projects Manager must be be informed that project funds
+    will be used to hire a contractor for project development.
+8.  Hiring Project Leaders as Contractors: If a project’s Leaders decide
+    to hire another Leader as a contractor for a project task/work
+    assignment, then the OWASP Projects Manager must be informed before
+    work begins. Leaders must demonstrate to the OWASP PM that they have
+    searched for 3rd party contractors, before the decision was reached
+    to hire the Project Leader(s) as contractors.The
+    contracted Leader(s) will be paid upon satisfactory completion of
+    the work.
+9.  As of Jan 01, 2014, OWASP will add a disclaimer to the donation page
+    which states that the Foundation reserves the right to reallocate
+    funds to the general Foundation income account. For all money
+    received for projects prior to Jan 1st - OWASP will make best
+    efforts to contact donors in respect to their donor intent before
+    reallocating funds in the instance of inactive projects.
+
+### Project Sponsorship Operational Guidelines
+
+The set of guidelines below aim to inform project sponsors of what they
+can expect if they donate funds, or other resources, to an OWASP
+Project. Additionally, they outline what Project Leaders can offer
+sponsors in exchange for donating funds to their OWASP Project. In order
+to avoid any problems or misunderstandings, we have developed these
+guidelines to provide clear expectations of how sponsors and projects
+are expected to interact when funds are given to a project for product
+development.
+
+**GUIDELINES**
+
+1.  Any company or individual can donate funds to a project in exchange
+    for the placement of one sponsorship logo on the OWASP project page
+    and product they have sponsored.
+2.  There is no limit or minimum amount that a company or individual can
+    give in funds to an OWASP Project. However, the minimum amount
+    required to have a company logo on the OWASP Project wiki page and
+    product is \$1000 USD.
+3.  Sponsors that donate less than \$1000 USD will have their company
+    name, and website url added to the project wiki page and product. No
+    logo will be placed for donations below this amount.
+4.  A sponsor can choose to donate to the overall OWASP Projects budget.
+    If the sponsor chooses to donate to the overall Projects budget,
+    then one logo of their choosing will be placed on the OWASP Projects
+    wiki page under the 'Sponsors' tab. The minimum amount required to
+    have their company logo on the OWASP Project page is \$1000 USD.
+5.  If a sponsor is donating funds to a speciﬁc project, then the logo
+    must be placed in the 'Acknowledgements' tab under the 'Project
+    Sponsors' heading using the new OWASP Projects wiki template.
+6.  Sponsor logos must NEVER be placed anywhere other than within the
+    'Acknowledgements' tab under the 'Project Sponsors' heading on the
+    project wiki page.
+7.  Logos must be created using the following speciﬁcations for
+    placement on the wiki page:
+    1.  Resolution: 72dpi
+    2.  File Type:.PNG or .JPEG
+    3.  Size: No longer than 300 x 300 px
+
+8.  Sponsor logos on the product: All sponsor logos must be placed on a
+    page/section/location that is separate from the content of
+    the product. They must contain the company logo, their name, and
+    their website url. The aim is to have a separate section on the
+    product that clearly lists sponsor information. Template
+    acknowledgement copy: “OWASP does not endorse vendors, but we would
+    like to acknowledge the following contributions....”
+9.  Logos must be created using the following speciﬁcations for
+    placement on the product:
+    1.  Resolution: 300dpi
+    2.  File Type: .EPS
+    3.  Size: No smaller than 5in x 5in
+
+10. All sponsorship logos will be placed on the project product and wiki
+    page for one year or until the next major release. All legacy
+    projects will be given one year to comply with these guidelines
+    starting on January 01, 2014.
+11. Logos must be sent to the OWASP Project Leader for inclusion on the
+    OWASP Project wiki page and product. It is the responsibility of the
+    Project Leader to make sure all of his/her project sponsors are
+    properly represented on the OWASP Project wiki page and product.
+12. All additional contributors get their name, email address, company
+    name (if desired), and a link to one external website (no logo). No
+    logos should be added for individuals who only contribute time, or
+    for any other sort of contribution.
+13. Project Sponsorship Rejection: A Project Leader can decide to accept
+    sponsorships or not, but this must be across the board. In essence,
+    a Project Leader must agree to accept all sponsors, or he/she must
+    agree to deny all sponsorship support. However, if a Project Leader
+    wants to reject a speciﬁc sponsor (not across the board) then an
+    exception will have to be requested from the Board of Directors.
+14. If a Project Leader fails to follow these guidelines, the OWASP
+    Projects Manager will notify the Project Leader of the infringement.
+    If the infringement continues, the Project Leader may face the
+    removal of all Project Leader privileges until further notice.
+
